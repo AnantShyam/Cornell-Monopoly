@@ -7,7 +7,7 @@ let super_fast = 0.05
 (* flag that toggles type printing. If you're playing the game as normal, set to
    false. If you're debugging and just want to see the output faster, set to
    true. *)
-let debugging = true
+let debugging = false
 
 let rec print_chars ?speed:(setting = med) = function
   | [] -> ()
