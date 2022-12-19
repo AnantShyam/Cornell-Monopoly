@@ -1,0 +1,204 @@
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:0:Boardwalk name.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:0:Boardwalk name is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:0:Boardwalk name.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:2:Boardwalk price.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:2:Boardwalk price is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:2:Boardwalk price.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:3:string of red.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:3:string of red is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:3:string of red.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:6:string of blue.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:6:string of blue is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:6:string of blue.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:7:string of brown.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:7:string of brown is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:7:string of brown.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:10:string of orange.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:10:string of orange is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:10:string of orange.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:12:string of utility.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:12:string of utility is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:12:string of utility.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:13:set of non-legal string.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:13:set of non-legal string is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:13:set of non-legal string.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:16:initialize cards.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:16:initialize cards is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:16:initialize cards.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:17:initialize tile.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:17:initialize tile is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:17:initialize tile.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:20:initialize in_jail.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:20:initialize in_jail is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:20:initialize in_jail.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:21:go to jail.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:21:go to jail is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:21:go to jail.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:24:charge 50.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:24:charge 50 is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:24:charge 50.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:25:has boardwalk.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:25:has boardwalk is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:25:has boardwalk.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:28:not worth less.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:28:not worth less is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:28:not worth less.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:29:turns in jail.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:29:turns in jail is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:29:turns in jail.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:32:no turns in jail after leaving.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:32:no turns in jail after leaving is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:32:no turns in jail after leaving.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:33:2 turns in jail.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:33:2 turns in jail is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:33:2 turns in jail.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:35:add then remove card.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:35:add then remove card is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:35:add then remove card.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:36:use a card.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:36:use a card is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:36:use a card.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:39:not chance does nothing.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:39:not chance does nothing is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:39:not chance does nothing.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:40:chance pays money.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:40:chance pays money is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:40:chance pays money.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:43:chance adv does nothing the second time.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:43:chance adv does nothing the second time is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:43:chance adv does nothing the second time.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:45:chance mm adds 200.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:45:chance mm adds 200 is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:45:chance mm adds 200.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:46:chance pay takes 100.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:46:chance pay takes 100 is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:46:chance pay takes 100.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:49:cc move does nothing.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:49:cc move does nothing is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:49:cc move does nothing.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:50:cc go pays 200.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:50:cc go pays 200 is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:50:cc go pays 200.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:53:pay income tax.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:53:pay income tax is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:53:pay income tax.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:55:pay no tax.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:55:pay no tax is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:55:pay no tax.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:56:list no properties.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:56:list no properties is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:56:list no properties.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:59:none prop.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:59:none prop is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:59:none prop.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:61:boardwalk prop.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:61:boardwalk prop is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:61:boardwalk prop.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:62:testing square landed.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:62:testing square landed is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:62:testing square landed.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:65:testing square landed.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:65:testing square landed is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:65:testing square landed.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:67:testing parse user input.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:67:testing parse user input is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:67:testing parse user input.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:68:testing parse user input.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:68:testing parse user input is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:68:testing parse user input.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:71:testing player passed go.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:71:testing player passed go is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:71:testing player passed go.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:72:testing player passed go.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:72:testing player passed go is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:72:testing player passed go.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:75:property name.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:75:property name is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:75:property name.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:77:community chest name.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:77:community chest name is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:77:community chest name.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:79:chance name.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:79:chance name is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:79:chance name.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:81:Free Parking name.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:81:Free Parking name is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:81:Free Parking name.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:82:Go to Jail name.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:82:Go to Jail name is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:82:Go to Jail name.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:84:property price.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:84:property price is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:84:property price.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:85:income tax price.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:85:income tax price is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:85:income tax price.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:88:other price.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:88:other price is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:88:other price.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:89:chest price.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:89:chest price is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:89:chest price.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:92:empty board.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:92:empty board is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:92:empty board.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:93:Go.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:93:Go is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:93:Go.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:96:purchase luxury tax.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:96:purchase luxury tax is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:96:purchase luxury tax.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:98:purchase go.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:98:purchase go is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:98:purchase go.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:100:purchase free parking.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:100:purchase free parking is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:100:purchase free parking.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:101:no purchased properties.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:101:no purchased properties is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:101:no purchased properties.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:104:can add different property.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:104:can add different property is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:104:can add different property.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:105:check_properties boardwalk.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:105:check_properties boardwalk is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:105:check_properties boardwalk.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:108:check_properties not a property.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:108:check_properties not a property is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:108:check_properties not a property.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:109:remove_properties removes.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:109:remove_properties removes is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:109:remove_properties removes.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:111:no players can't own.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:111:no players can't own is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:111:no players can't own.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:114:command test.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:114:command test is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:114:command test.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:115:command test.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:115:command test is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:115:command test.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:118:destination test.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:118:destination test is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:118:destination test.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:119:charge test.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:119:charge test is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:119:charge test.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:122:name test.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:122:name test is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:122:name test.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:123:name test.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:123:name test is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:123:name test.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:126:command test.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:126:command test is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:126:command test.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:127:destination test.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:127:destination test is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:127:destination test.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:130:payment test.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:130:payment test is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:130:payment test.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Start test Monopoly test suite:131:payment source test.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: Test Monopoly test suite:131:payment source test is successful.
+2022-12-19T04:49:37+00:00 Anants-MBP#01 I: End test Monopoly test suite:131:payment source test.

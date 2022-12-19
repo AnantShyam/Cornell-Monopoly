@@ -1,0 +1,30 @@
+(** @canonical Dune__exe.ChanceTest *)
+module ChanceTest = Dune__exe__ChanceTest
+
+
+(** @canonical Dune__exe.ChestTest *)
+module ChestTest = Dune__exe__ChestTest
+
+
+(** @canonical Dune__exe.Main *)
+module Main = Dune__exe__Main
+
+
+(** @canonical Dune__exe.MonopolyTest *)
+module MonopolyTest = Dune__exe__MonopolyTest
+
+
+(** @canonical Dune__exe.PlayerTest *)
+module PlayerTest = Dune__exe__PlayerTest
+
+
+(** @canonical Dune__exe.PropertyTest *)
+module PropertyTest = Dune__exe__PropertyTest
+
+
+(** @canonical Dune__exe.StateTest *)
+module StateTest = Dune__exe__StateTest
+
+
+(** @canonical Dune__exe.TileTest *)
+module TileTest = Dune__exe__TileTest
